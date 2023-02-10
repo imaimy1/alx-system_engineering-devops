@@ -1,1 +1,2 @@
 #!/bin/bash
+chmod –reference=olleh hello (double hyphen)
